@@ -52,6 +52,7 @@ NAME -VISVESWARRAN H
 
 REG NO-24006599
 
+```
 import numpy as np
 L=[int(i) for i in input().split()]
 N=len(L); M=max(L) 
@@ -74,6 +75,7 @@ SD=np.sqrt(var)
 print("The Mean arrival rate is %.3f "%mean)
 print("The Variance of arrival from feeder is %.3f "%var) 
 print("The Standard deviation of arrival from feeder is %.3F "%SD)
+```
 
 # Output : 
 ![WhatsApp Image 2024-12-16 at 17 00 01_f58c5ae8](https://github.com/user-attachments/assets/b4f98359-62f0-4d68-aa5d-6040d0febb9a)
